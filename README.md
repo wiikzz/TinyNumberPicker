@@ -3,5 +3,5 @@
 
 
 示例如下图所示:
-git 
-![demon](https://github.com/wiikzz/TinyNumberPicker/images/demon.gif)
+
+![demon](https://github.com/wiikzz/TinyNumberPicker/blob/master/images/demon.gif)
