@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         mTextView = (TextView)findViewById(R.id.textView);
-
+        int i = 0;
 
         TinyNumberPicker tinyNumberPicker = (TinyNumberPicker) findViewById(R.id.tinyNumberPicker);
         assert tinyNumberPicker != null;
